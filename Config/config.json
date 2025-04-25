@@ -1,0 +1,7 @@
+{
+    "database" : "Mon_eval",
+    "username" : "root",
+    "password" : "admin",
+    "host" : "localhost",
+    "port" : 3306
+}
